@@ -1,5 +1,6 @@
 package com.quasapp.android.listviewwithcheckbox;
 
+import android.content.Intent;
 import android.nfc.Tag;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
